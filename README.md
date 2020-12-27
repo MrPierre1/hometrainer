@@ -1,5 +1,4 @@
-
-![Product Presentation Image](https://raw.githubusercontent.com/creativetimofficial/tailwind-starter-kit/master/images/landing.jpg)
+(https://raw.githubusercontent.com/creativetimofficial/tailwind-starter-kit/master/images/landing.jpg)
 
 
 ## Description
