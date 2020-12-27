@@ -1,6 +1,3 @@
-# <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.creative-tim.com%2Flearning-lab%2Ftailwindcss-starter-project%23%2Fpresentation&text=Tailwind%20Starter%20Kit%20by%20Creative%20Tim&original_referer=&via=Creative%20Tim&hashtags=creativetim" target="_blank">![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)</a>
-
-
 
 ![Product Presentation Image](https://raw.githubusercontent.com/creativetimofficial/tailwind-starter-kit/master/images/landing.jpg)
 
